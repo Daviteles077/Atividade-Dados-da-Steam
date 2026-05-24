@@ -78,10 +78,6 @@ Como o projeto foi planejado para rodar diretamente na nuvem via **Google Colab*
 
 <p align="center">
   Desenvolvido com ❤️ para a aula de Ciência de Dados.
-</p>
-"""
 
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
 
 print("README.md gerado com sucesso!")
