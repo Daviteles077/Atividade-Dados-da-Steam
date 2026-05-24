@@ -80,4 +80,4 @@ Como o projeto foi planejado para rodar diretamente na nuvem via **Google Colab*
   Desenvolvido com ❤️ para a aula de Ciência de Dados.
 
 
-print("README.md gerado com sucesso!")
+
