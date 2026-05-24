@@ -1,7 +1,7 @@
 # Atividade-Dados-da-Steam
 
 
-readme_content = """# 🎮 Projeto de Ciência de Dados: Steam Games Dataset
+# 🎮 Projeto de Ciência de Dados: Steam Games Dataset
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=66C0F4&center=true&vCenter=true&width=500&lines=Grupo+6+%E2%80%94+Steam+Games;An%C3%A1lise+Explorat%C3%B3ria;Menos+%C3%A9+Mais!+%F0%9F%93%8A" alt="Typing SVG" />
